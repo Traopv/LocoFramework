@@ -1,0 +1,22 @@
+{
+  "name": "LocoFramework",
+  "version": "1.0.0",
+  "summary": "This is first cocoapod",
+  "description": "This is first cocoapod This is first cocoapod This is first cocoapod",
+  "homepage": "https://github.com/Traopv/LocoFramework",
+  "license": "MIT",
+  "authors": {
+    "traopv": "traopv99@gmail.com"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source": {
+    "git": "https://github.com/Traopv/LocoFramework.git",
+    "tag": "1.0.0"
+  },
+  "source_files": [
+    "LocoFramework",
+    "LocoFramework/**/*.{h,m}"
+  ]
+}
